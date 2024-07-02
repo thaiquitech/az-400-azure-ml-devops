@@ -14,6 +14,6 @@ lint:
 	pylint --disable=R,C hello.py
 
 tui:
-	echo "Xin chao tui"
+	echo "Xin Chào Thái Quí"
 
 all: tui install lint test 
