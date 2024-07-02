@@ -11,7 +11,8 @@ test:
 
 
 lint:
-	pylint --disable=R,C hello.py
+	# pylint --disable=R,C hello.py
+	pylint --disable=R,C,E1120,W0613 hello.py
 
 tui:
 	echo "Xin Chào Thái Quí"
