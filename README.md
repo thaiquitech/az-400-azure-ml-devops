@@ -1,4 +1,4 @@
-![Python application test with Github Actions](https://github.com/noahgift/azure-ml-devops/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+[![Python application test with Github Actions](https://github.com/thaiquitech/az-400-azure-ml-devops/actions/workflows/main.yml/badge.svg)](https://github.com/thaiquitech/az-400-azure-ml-devops/actions/workflows/main.yml)
 
 # azure-ml-devops
 Azure DevOps workflow for ML
